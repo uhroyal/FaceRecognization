@@ -1,11 +1,15 @@
-# Face Recognization .PY
-OPEN SOURCE
+# Face Recognization .PY | OPEN SOURCE
 
-Added notes for more guidance 
-Replace reference.jpg with a picture of your face.
-
-Works better in the light rather than the dark
+Q to kill the window
 
 # libraries :
 threading 
 cv2
+
+
+# showcase video
+when it detected the same pose as my reference photo it detected .
+Works better in the light rather than the dark
+
+https://github.com/user-attachments/assets/efc6f335-3d68-4187-b54e-764df224989e
+
